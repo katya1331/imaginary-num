@@ -1,0 +1,10 @@
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\bin\Debug\числа которые корень отрицательный хехе).exe.config
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\bin\Debug\числа которые корень отрицательный хехе).exe
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\bin\Debug\числа которые корень отрицательный хехе).pdb
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\obj\Debug\числа которые корень отрицательный хехе).csproj.AssemblyReference.cache
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\obj\Debug\числа_которые_корень_отрицательный_хехе_.Form1.resources
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\obj\Debug\числа_которые_корень_отрицательный_хехе_.Properties.Resources.resources
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\obj\Debug\числа которые корень отрицательный хехе).csproj.GenerateResource.cache
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\obj\Debug\числа которые корень отрицательный хехе).csproj.CoreCompileInputs.cache
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\obj\Debug\числа которые корень отрицательный хехе).exe
+D:\Документы\VS projects\for_katya\числа которые корень отрицательный хехе)\obj\Debug\числа которые корень отрицательный хехе).pdb
